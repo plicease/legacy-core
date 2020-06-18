@@ -1,0 +1,14 @@
+Begin3
+Title:          what
+Version:        1.2
+Entered-date:   07SEP98
+Description:    search files for the special symbol @(#) 
+		(or alternate).  often handy for acquiring
+		information from binaries provided by the
+		programmer.
+Keywords:       binary strings
+Author:         ollisg@wwa.com (Graham THE Ollis)
+Primary-site:   sunsite.unc.edu /pub/Linux/utils/file
+		58kB what-1.2.tar.gz
+Copying-policy: GPL
+End
